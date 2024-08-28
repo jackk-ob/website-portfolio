@@ -357,6 +357,12 @@ section {
     flex-direction: column;
 }
 
+.work-details-container3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .article-container {
     display: flex;
     text-align: initial;
@@ -373,6 +379,12 @@ section {
 }
 
 .work-img2 {
+    border-radius: 2rem;
+    height: 300px;
+    width: 200px;
+}
+
+.work-img3 {
     border-radius: 2rem;
     height: 300px;
     width: 200px;
