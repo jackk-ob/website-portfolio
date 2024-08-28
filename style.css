@@ -357,11 +357,6 @@ section {
     flex-direction: column;
 }
 
-.work-details-container3 {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
 
 .article-container {
     display: flex;
@@ -373,7 +368,6 @@ section {
 }
 
 .work-img1 {
-    padding-left: 5rem;
     border-radius: 2rem;
     height: 300px;
     width: 200px;
@@ -385,11 +379,6 @@ section {
     width: 200px;
 }
 
-.work-img3 {
-    border-radius: 2rem;
-    height: 300px;
-    width: 450px;
-}
 
 .btn-color-2 {
     cursor: pointer;
