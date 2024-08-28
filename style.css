@@ -360,7 +360,7 @@ section {
 .work-details-container3 {
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .article-container {
