@@ -21,6 +21,7 @@
     .work-details-container3,
     .work-details-container4 {
         margin-top: 2rem;
+        justify-content: center;
     }
     #profile, 
     .section-container {
