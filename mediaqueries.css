@@ -17,7 +17,9 @@
     }
     #my-work,
     .work-details-container1, 
-    .work-details-container2 {
+    .work-details-container2,
+    .work-details-container3,
+    .work-details-container4 {
         margin-top: 2rem;
     }
     #profile, 
